@@ -13,5 +13,4 @@
 *://magazine.techacademy.jp/*
 *://www.acrovision.jp/*
 *://tech-camp.in/*
-*://www.oreilly.co.jp/*
 *://www.sbcr.jp/*

@@ -4,8 +4,8 @@ uBlocklist の購読リポジトリです.
 
 ## 購読する
 
-- [こちら](https://raw.githubusercontent.com/m1sk9/uBlocklist-subscription/main/dist/uBlocklist.txt) から購読が可能です.
-  - Google Chrome を使用している場合は[ここ](https://iorate.github.io/ublacklist/subscribe?name=m1sk9-uBlocklist-subscription&url=https://raw.githubusercontent.com/m1sk9/uBlocklist-subscription/main/dist/uBlocklist.txt)から購読可能です.
+- [こちら](https://raw.githubusercontent.com/m1sk9/uBlacklist-subscription/main/dist/uBlacklist.txt) から購読が可能です.
+  - Google Chrome を使用している場合は[ここ](https://iorate.github.io/ublacklist/subscribe?name=m1sk9-uBlacklist-subscription&url=https://raw.githubusercontent.com/m1sk9/uBlacklist-subscription/main/dist/uBlacklist.txt)から購読可能です.
 
 ## ブロックしているサイトの種類
 
